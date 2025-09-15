@@ -14,7 +14,7 @@ Fraudulent transactions represent a significant financial risk and can damage cu
 
 ## Dataset
 
-The project uses a synthetic dataset called **PaySim**, which was generated using a simulator based on aggregated real-world financial transaction data.
+The project uses a synthetic dataset called **Fraud.csv**, which was generated using a simulator based on aggregated real-world financial transaction data.
 
   * **Source**: Fraud.csv
   * **Content**: The dataset contains over 6.3 million transactions from a 30-day simulation.
