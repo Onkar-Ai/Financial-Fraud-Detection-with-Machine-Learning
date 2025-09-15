@@ -17,8 +17,8 @@ Fraudulent transactions represent a significant financial risk and can damage cu
 The project uses a synthetic dataset called **PaySim**, which was generated using a simulator based on aggregated real-world financial transaction data.
 
   * **Source**: Fraud.csv
-  * [cite\_start]**Content**: The dataset contains over 6.3 million transactions from a 30-day simulation[cite: 2].
-  * [cite\_start]**Features**: Key features include transaction `type` (e.g., `CASH_OUT`, `TRANSFER`) [cite: 3][cite\_start], `amount`, initial and final balances for both the originator and recipient, and a target label `isFraud`[cite: 7].
+  * **Content**: The dataset contains over 6.3 million transactions from a 30-day simulation.
+  * **Features**: Key features include transaction `type` (e.g., `CASH_OUT`, `TRANSFER`) [cite: 3][cite\_start], `amount`, initial and final balances for both the originator and recipient, and a target label `isFraud`.
 
 -----
 
