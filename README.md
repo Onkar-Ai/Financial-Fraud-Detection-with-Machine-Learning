@@ -8,7 +8,7 @@ This project develops a machine learning model to detect fraudulent financial tr
 
 ## Business Problem
 
-Fraudulent transactions represent a significant financial risk and can damage customer trust. [cite\_start]The fraudulent behavior in this dataset aims to profit by taking control of customer accounts and emptying the funds by transferring them to another account and then cashing out[cite: 8]. [cite\_start]The existing prevention system relies on a static, simplistic rule of flagging transfers over 200,000 in a single transaction[cite: 10]. This project aims to build a more intelligent, data-driven system that can identify complex fraudulent patterns with high precision and recall.
+Fraudulent transactions represent a significant financial risk and can damage customer trust. The fraudulent behavior in this dataset aims to profit by taking control of customer accounts and emptying the funds by transferring them to another account and then cashing out. The existing prevention system relies on a static, simplistic rule of flagging transfers over 200,000 in a single transaction. This project aims to build a more intelligent, data-driven system that can identify complex fraudulent patterns with high precision and recall.
 
 -----
 
@@ -18,7 +18,7 @@ The project uses a synthetic dataset called **PaySim**, which was generated usin
 
   * **Source**: Fraud.csv
   * **Content**: The dataset contains over 6.3 million transactions from a 30-day simulation.
-  * **Features**: Key features include transaction `type` (e.g., `CASH_OUT`, `TRANSFER`) [cite: 3][cite\_start], `amount`, initial and final balances for both the originator and recipient, and a target label `isFraud`.
+  * **Features**: Key features include transaction `type` (e.g., `CASH_OUT`, `TRANSFER`), `amount`, initial and final balances for both the originator and recipient, and a target label `isFraud`.
 
 -----
 
