@@ -81,7 +81,7 @@ This system provides a robust defense against fraud while maintaining a smooth e
 
 ### Running the Analysis
 
-Open and run the `Fraud_Detection_Analysis.ipynb` notebook in Jupyter.
+Open and run the `Internship.ipynb` notebook in Jupyter.
 
 -----
 
@@ -89,7 +89,7 @@ Open and run the `Fraud_Detection_Analysis.ipynb` notebook in Jupyter.
 
 ```
 ├── Fraud_Detection_Analysis.ipynb    # Main notebook with all the analysis and modeling code.
-├── paysim.csv                        # The dataset (note: large file).
+├── Fraud.csv                        # The dataset (note: large file).
 ├── requirements.txt                  # A list of required Python libraries.
 └── README.md                         # You are here.
 ```
