@@ -16,7 +16,7 @@ Fraudulent transactions represent a significant financial risk and can damage cu
 
 The project uses a synthetic dataset called **Fraud.csv**, which was generated using a simulator based on aggregated real-world financial transaction data.
 
-  * **Source**: Fraud.csv
+  * **Source**: https://drive.google.com/file/d/1oaplonDCSaCEWurj6MsZG-WObk7hUCXc/view?usp=sharing
   * **Content**: The dataset contains over 6.3 million transactions from a 30-day simulation.
   * **Features**: Key features include transaction `type` (e.g., `CASH_OUT`, `TRANSFER`), `amount`, initial and final balances for both the originator and recipient, and a target label `isFraud`.
 
@@ -88,8 +88,7 @@ Open and run the `Internship.ipynb` notebook in Jupyter.
 ## File Structure
 
 ```
-├── Fraud_Detection_Analysis.ipynb    # Main notebook with all the analysis and modeling code.
-├── Fraud.csv                        # The dataset (note: large file).
+├── Internship.ipynb                  # Main notebook with all the analysis and modeling code.
 ├── requirements.txt                  # A list of required Python libraries.
 └── README.md                         # You are here.
 ```
