@@ -71,7 +71,7 @@ This system provides a robust defense against fraud while maintaining a smooth e
 
 1.  Clone the repository:
     ```bash
-    [git clone https://github.com/Onkar-Ai/Financial-Fraud-Detection-with-Machine-Learning]
+    git clone https://github.com/Onkar-Ai/Financial-Fraud-Detection-with-Machine-Learning.git
     cd fraud-detection-project
     ```
 2.  Install the required libraries:
